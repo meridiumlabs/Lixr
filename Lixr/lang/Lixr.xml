@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<languages>
+  <language name="Svenska" id="sv">
+    <meridium.epcms>
+      <lixr>
+        <heading>LIX - Läsbarhetsindex</heading>
+        <intro>Läsbarhetsindex (LIX) kan användas för att få uppfattning om hur lätt eller svår en text är att läsa. LIX är baserat på medeltalet ord per mening och andelen långa ord (ord med fler än 6 bokstäver) uttryckt i procent.</intro>
+        <subheading>Resultat</subheading>
+        <result>Den markerade textens läsbarhetsindex är </result>
+        <ground>Validerad text</ground>
+        <explanation>Tolka ditt resultat genom att titta i tabellen nedan.</explanation>
+        <summary>LIX-tal för texter av olika slag.</summary>
+        <lix>LIX-tal</lix>
+        <description>Beskrivning</description>
+        <menu>
+          <displayname>Läsbarhetsindex...</displayname>
+          <description>Läsbarhetsindex (LIX) kan användas för att få uppfattning om hur lätt eller svår en text är att läsa.</description>
+        </menu>
+      </lixr>
+    </meridium.epcms>
+    <tinymce>
+      <validatetext>
+        <validatetextbutton_desc>Validera text</validatetextbutton_desc>
+      </validatetext>
+    </tinymce>
+    <admin>
+      <propertysettings>
+        <tinyeditorsettings>
+          <groups>
+            <validatetext>Validera text</validatetext>
+          </groups>
+        </tinyeditorsettings>
+      </propertysettings>
+    </admin>
+  </language>
+</languages>
