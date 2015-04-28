@@ -9,5 +9,5 @@ namnet Settings.ToolbarRows.Add(new ToolbarRow(new[] { "validatetextbutton"})) f
 
 ##Inställningar
 
-I filen LixFrame.aspx referaras jquery in via https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js.
+I filen LixFrame.aspx refereras jquery in via https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js.
 Ändra denna till din egna variant av jquery. Där kan även style anpassas till det egna projektet.
